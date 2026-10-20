@@ -1,3 +1,5 @@
+> Notes from setting up an Ubuntu 22.04 laptop so Gazebo, RViz and Isaac Sim always run on the dedicated NVIDIA GPU instead of falling back to Intel graphics. Related: my ROS 2 projects — [SCARA](https://github.com/Curious-Utkarsh/ROS2_SCARA_WS) · [MechaBot](https://github.com/MechaMind-Labs/AMR-Mastery) · [Mobi](https://github.com/Curious-Utkarsh/Indoor_Service_AMR)
+
 # Ubuntu 22.04 – NVIDIA Dedicated GPU Setup, Verification & Debug Guide
 
 This README documents **every step, check, command, and fix** required to:
